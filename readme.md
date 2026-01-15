@@ -12,7 +12,7 @@ In my early days I spent some time building systems, servers, etc., but when *th
 
 What better way to *bridge these gaps* than to build a super-simple 8-bit system.
 
-I did post a short-ish video to YouTube covering much of this build as well, that can be found here: [https://youtu.be/ckStdCcWBSM](https://youtu.be/ckStdCcWBSM])
+I did post a video to YouTube covering much of this build as well, that can be found here: [https://youtu.be/ckStdCcWBSM](https://youtu.be/ckStdCcWBSM])
 
 ## Credit Where Credit's Due
 
